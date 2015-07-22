@@ -1,5 +1,5 @@
-// This is just boiuler plate dont worry about it
-// This just supports loading in any enviroment
+// This is just boilerplate don't worry about it
+// This just supports loading in any environment
 (function ( root, factory ) {
     if ( typeof define === "function" && define.amd ) {
         define( [], factory );
